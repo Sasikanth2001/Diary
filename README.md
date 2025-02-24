@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 welcome to the diary application this project allows users to create notes, and edit and delete functions are available.
 
+live Demo:
+      https://diary-app-fsd1.netlify.app/ 
 steps of using application:
  1. The user creates a register form and the user was already registered directly login to application
  2. log in user moved to view page
